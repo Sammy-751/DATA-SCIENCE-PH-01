@@ -27,10 +27,12 @@ The Top Thirty Aircraft Models in the market with the highest numbers of casualt
 "737" recording the injury highest metrics, "152" coming in second, "172" in third and a tie between "172N" and "PA-28-140". "G-164A", "G-164B" and "172S" having the lowest records. The organization is able to see the aircrafts that are to be paid more attention to as they have highest records of passengers injured.
 
 ![image](./Images/Injured-Uninjured%20over%20the%20Years.png)
+
 The graph is a trend analysis graph. It shows that the number of total people who have been injured over the years is reducing over time though there are fluctuations in the numbers indicating further thorough measures are to be put in place to reduce the numbers. So is the number of people Uninjured. 
 The numbers are also shifting indicating there's still more factors to be investigated like the number of people taking flights, whether it is reducing/increasing over the years.
 
 ![image](./Images/Injured-Uninjured%20per%20Weather.png)
+
 The number of people who are injured and uninjured also depends on the weather, with VMC recording the highest numbers of Injured and Uninjured people. IMC shows low records of the people injured and Uninjured probably due to less number of flights taken in the bad weather conditions.
 
 ## Conclusion
