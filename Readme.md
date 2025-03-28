@@ -1,5 +1,6 @@
 
 # AIRCRAFT RISK ASSESSMENT ANALYSIS
+# Author: [Sammy Macharia](mailto:macharias738@gmail.com)
 
 ## Overview
 
