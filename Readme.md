@@ -14,6 +14,8 @@ It also aids in examining how flying phases and weather affect the results of ac
 ## Source of Data
 
 The dataset is sourced from aviation accidents reports which was compiled by the regulatory body, [National Transportation Safety Body](https://www.ntsb.gov/Pages/home.aspx) (NTSB). 
+
+
 ![imaage](./Images/NTSB.jpeg)
 
 ## Description of Data.
