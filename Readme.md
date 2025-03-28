@@ -44,6 +44,9 @@ The number of people who are injured and uninjured also depends on the weather, 
 
 ## For More Information
 
-For moreinformation check out the [Jupyter Notebook](https://github.com/Sammy-751/DATA-SCIENCE-PH-01/blob/master/Project%20Phase%20I%20.ipynb) and [Presentation pdf](
+For moreinformation check out the [Jupyter Notebook](https://github.com/Sammy-751/DATA-SCIENCE-PH-01/blob/master/Project%20Phase%20I%20.ipynb) and [Presentation pdf](https://github.com/Sammy-751/DATA-SCIENCE-PH-01/blob/master/AIRCRAFT_RISK_ASSESSMENT.pdf)
+
+## Thank you!
+
 
 
