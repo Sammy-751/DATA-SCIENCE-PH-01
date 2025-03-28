@@ -1,5 +1,6 @@
 
 # AIRCRAFT RISK ASSESSMENT ANALYSIS
+# Author: [Sammy Macharia](mailto:macharias738@gmail.com)
 
 ## Overview
 
@@ -41,6 +42,11 @@ The number of people who are injured and uninjured also depends on the weather, 
 2.  Weather conditions have an impact on accident outcomes.
 3. Fluctuations of numbers of people Injured over time indicate a need for continuous monitoring and improvements in safety protocols over time.
 
+## For More Information
+
+For more information check out the [Jupyter Notebook](https://github.com/Sammy-751/DATA-SCIENCE-PH-01/blob/master/Project%20Phase%20I%20.ipynb) and [Presentation pdf](https://github.com/Sammy-751/DATA-SCIENCE-PH-01/blob/master/AIRCRAFT_RISK_ASSESSMENT.pdf)
+
+## Thank you!
 
 
 
